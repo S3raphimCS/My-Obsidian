@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "020d913d55f37697",
+        "id": "e4492c196a1cc5fc",
         "type": "tabs",
         "children": [
           {
-            "id": "38e858c6e6d08b98",
+            "id": "e221935b335aa62b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go/Golang.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Golang"
+              "title": "README"
             }
           }
         ]
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Структура Golang"
             }
+          },
+          {
+            "id": "e2a6de7f725f4833",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,37 +179,43 @@
       "omnisearch:Omnisearch": false,
       "obsidian-kanban:Создать новую доску": false,
       "dashboard-navigator:Open dashboard navigator": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38e858c6e6d08b98",
+  "active": "e221935b335aa62b",
   "lastOpenFiles": [
-    "Go/Указатели.md",
+    "notes/English/English.md",
+    "notes/English",
+    "templates",
+    "Github Storage/README.md",
     "README.md",
+    "attachments/Pasted image 20250708143715.png",
+    "attachments",
+    "notes",
+    "README.md.md",
+    "notes/Go/Golang.md",
+    "notes/Go/Указатели.md",
     "Mirtraveler/Мои задачи.md",
     "Test.md",
-    "English.md",
     "Добро пожаловать.md",
-    "Go/media/Pasted image 20250708142239.png",
-    "Go/Проектирование систем.md",
-    "Go/Project.md",
-    "Go/Концепции.md",
-    "Go/Начало работы.md",
-    "Go/media/Pasted image 20250708143715.png",
+    "attachments/Pasted image 20250708142239.png",
+    "notes/Go/Проектирование систем.md",
+    "notes/Go/Project.md",
+    "notes/Go/Концепции.md",
+    "notes/Go/Начало работы.md",
     "Mirtraveler",
-    "Go/media/Pasted image 20250705230411.png",
-    "Go/media/Pasted image 20250708141501.png",
-    "Go/media/Pasted image 20250705222527.png",
-    "Go/media/Pasted image 20250705221601.png",
-    "Go/media/Pasted image 20250705221311.png",
-    "Go/media/Pasted image 20250705215240.png",
-    "Go/media/Pasted image 20250705214146.png",
-    "Go/media/Pasted image 20250705212628.png",
-    "Go/Интерфейсы.md",
+    "attachments/Pasted image 20250705230411.png",
+    "attachments/Pasted image 20250708141501.png",
+    "attachments/Pasted image 20250705222527.png",
+    "attachments/Pasted image 20250705221601.png",
+    "attachments/Pasted image 20250705221311.png",
+    "attachments/Pasted image 20250705215240.png",
+    "attachments/Pasted image 20250705214146.png",
+    "attachments/Pasted image 20250705212628.png",
+    "notes/Go/Интерфейсы.md",
     "Go/media",
-    "Go/Kubernetes.md",
-    "Go/Golang.md",
-    "Go",
-    "Без названия"
+    "notes/Go/Kubernetes.md",
+    "notes/Go"
   ]
 }
